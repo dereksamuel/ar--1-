@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,EACE,QAAS,CACT,SAAU,CACV,qBACF,CAEA,8BACE,WAAY,CACZ,UACF","file":"main.2531d112.chunk.css","sourcesContent":["* {\r\n  margin: 0;\r\n  padding: 0;\r\n  box-sizing: border-box;\r\n}\r\n\r\n.ContainerApp, #root, body, html {\r\n  height: 100%;\r\n  width: 100%;\r\n}\r\n"]}
